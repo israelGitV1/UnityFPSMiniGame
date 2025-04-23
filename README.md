@@ -3,6 +3,10 @@
 
 Um jogo de tiro em primeira pessoa (FPS) desenvolvido com Unity. Este projeto tem como objetivo demonstrar mecânicas básicas de um FPS como movimentação, mira, disparo, e IA inimiga simples.
 
+## 🎮 Jogue Agora
+
+👉 [Clique aqui para jogar a versão WebGL](https://seu-usuario.github.io/unity-fps-game-webgl) *(funciona melhor no navegador desktop)*
+
 ## 📸 Imagens (opcional)
 
 <p float="left">
