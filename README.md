@@ -5,7 +5,7 @@ Um jogo de tiro em primeira pessoa (FPS) desenvolvido com Unity. Este projeto te
 
 ## 🎮 Jogue Agora
 
-👉 [Clique aqui para jogar a versão WebGL](https://seu-usuario.github.io/unity-fps-game-webgl](https://play.unity.com/en/games/785c4e95-cb69-42a4-89d2-1f800c796cf3/fps-mini-game) *(funciona melhor no navegador desktop)*
+👉 [Clique aqui para jogar a versão WebGL](https://play.unity.com/en/games/785c4e95-cb69-42a4-89d2-1f800c796cf3/fps-mini-game) *(funciona melhor no navegador desktop)*
 
 ## 📸 Imagens (opcional)
 
